@@ -1,1 +1,6 @@
-Hola mundo te vi desde el cielo
+@extends('layouts.app')
+
+@section('contenido')
+<p>Hola Mundo.</p>
+@stop
+
